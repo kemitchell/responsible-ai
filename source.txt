@@ -64,8 +64,6 @@ i. Predict the likelihood that a crime will be committed by any person;
 
 ii. Predict the likelihood, of any person, being a criminal or having committed a crime;
 
-4.
-
 iii. Predict the likelihood, of any person, being a criminal, based on the person's facial attributes or another person's facial attributes;
 
 iv. Predict the likelihood, of any person, having committed a crime, based on the person's facial attributes or another person's facial attributes;
@@ -78,7 +76,7 @@ vii. Use personal data and/or personal characteristics or features such as: name
 
 viii. Predict the likelihood of a person being a criminal based on the person or other User's facial attributes.
 
-Termination
+4. Termination
 
 Upon the occurrence of any of the restricted uses listed above in "3. Restrictions", Licensor shall have the right to:
 
@@ -92,9 +90,7 @@ Upon the occurrence of any of the restricted uses listed above in "3. Restrictio
 
 (v) notify all parties affected by use of the Contribution. Termination of this License Agreement shall be in addition to and not in lieu of any other remedies available to Licensor. Licensor expressly reserves the right to pursue all legal and equitable remedies available under the law.
 
-5.
-
-Disclaimer of Warranty.
+5. Disclaimer of Warranty.
 
 Unless required by applicable law or agreed to in writing, Licensor provides any Contribution (and each Contributor provides its Contributions) on an "As-Is" basis, without WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing a Contribution and assume any risks associated with Your exercise of permissions under this License.
 
